@@ -1,0 +1,122 @@
+
+    table {
+        text-align: center;
+    }
+     
+    table tr {
+        background-color: #f9f9f9;
+        border-bottom: 1px solid #ddd;
+    }
+     
+    table tr{
+        background-color: #f1f1f1;
+    }
+     #resturaboto{
+        background-color: #ffe4c4;
+        border-radius: 5%;
+
+
+     }
+     #lojaboto{
+        border-radius: 5%;
+        background-color: #f7efe5;
+        
+     }
+     #restauraft{
+        border-radius: 10%;
+     }
+     #lojaft{
+        border-radius: 5%;
+     }
+    button {
+        color: white;
+        
+        text-align: center;
+        font-size: 16px;
+        
+      
+    }    
+    li {
+        margin: 10px
+    }
+
+    header {
+        text-align: center;
+        background-color: rgb(201, 164, 124);    
+        color: rgb(0, 0, 0);
+        position:fixed;
+        width: 100%;
+        
+    }
+h1{
+    background-color: rgb(201, 164, 124);
+    text-align: center;
+    width: 100%;
+    
+}
+#inicio{
+    padding-top: 225px;
+
+}
+h2{
+    padding: 5px;
+    border: 5px;
+    border-radius: 5%;
+    background-color: rgb(201, 164, 124);
+    text-align: center;
+}
+     h4{
+        padding: 5px;
+        border: 5px;
+        border-radius: 3%;
+        background-color:(239, 204, 167);
+        text-align: center;
+     }
+     
+    #joao {
+        display: block;
+        margin: 3px auto;
+        border-radius: 40%;
+        border: 2px ;
+        background-color:rgb(201, 164, 124);
+    }
+    li{
+        background-color: rgb(201, 164, 124);
+    }
+    body{
+        background-color: rgb(240, 218, 195);
+    }
+    #menu1{
+        color: black;
+    }
+    #menu2{
+        color: black;
+    }
+    #menu3{
+        color: black;
+    }
+    h3{
+        padding: 5px;
+        border: 5px;
+        border-radius: 5%;
+        background-color: rgb(201, 164, 124);
+        text-align: center;
+    }
+    h5{
+        text-align: center;
+    }
+    #sobre{
+        padding: 1px;
+        border: 5px;
+        border-radius: 5%;
+        background-color: rgb(201, 164, 124);
+        text-align: center;
+    }
+    #contato{
+        background-color: rgb(201, 164, 124);
+        text-align: center;
+        width: 100%;
+    }
+    
+    
+    
